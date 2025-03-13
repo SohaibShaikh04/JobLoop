@@ -5,6 +5,6 @@
 
 @layer base {
   body {
-    background: linear-gradient(to right, rgb(15, 23, 42), rgb(88, 28, 135), rgb(15, 23, 42));
+    background: linear-gradient(to right, rgb(15, 23, 42), rgb(47, 66, 186), rgb(15, 23, 42));
   }
 }
