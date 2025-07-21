@@ -25,3 +25,5 @@ src/firebase.config.js
 *.sw?
 
 .env
+
+test.py
