@@ -24,6 +24,5 @@ src/firebase.config.js
 *.sln
 *.sw?
 
-.env
 
 test.py
